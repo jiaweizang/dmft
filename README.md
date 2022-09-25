@@ -18,13 +18,13 @@ results are obtained first on the imaginary axis, and we do an analytical contin
 to get the results on the real frequency axis.
 
 Paramagnetic state:
-* `paramagnetic.py` run the DMFT calculation for the paramagnetic state.
+* `paramagnetic.py` runs the DMFT calculation for the paramagnetic state.
 * `para_tail_fitting.ipynb` performs a tail fitting of the self energy.
 * `para_AC_1.py` does the first step of the analytical continuation for the self energy, after it has been tail fitted. 
 * `para_AC_2.py` does the second step of the analytical continuation for the self energy.
 
 Magnetic state:
-* `magnetic.py` run the DMFT calculation for the magnetic state.
+* `magnetic.py` runs the DMFT calculation for the magnetic state.
 * `mag_tail_fitting.ipynb` performs a tail fitting of the self energy.
 * `mag_AC_1.py` does the first step of the analytical continuation for the self energy, after it has been tail fitted. 
 * `mag_AC_2.py` does the second step of the analytical continuation for the self energy. 
